@@ -1,7 +1,7 @@
 Package: PAICE
 Type: Package
 Title: Phylogeographic Analysis of Island Colonization Events
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: 
     c(
         person(
@@ -36,12 +36,12 @@ Description: Estimation of the number of colonization events between islands of 
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
-Date: 2023-11-12
+Date: 2024-07-15
 URL: <https://github.com/PAICEcode/PAICE>
 BugReports: https://github.com/PAICEcode/PAICE/issues
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.2
 NeedsCompilation: no
-Packaged: 2023-11-12 11:55:24 UTC; Alberto
+Packaged: 2024-07-15 22:22:30 UTC; Alberto
 Language: en-US
 Author: Alberto J. Coello [aut, cre] (ORCID = 0000-0002-2665-3726),
   Mario Fernández-Mazuecos [aut] (ORCID = 0000-0003-4027-6477),
@@ -49,4 +49,4 @@ Author: Alberto J. Coello [aut, cre] (ORCID = 0000-0002-2665-3726),
   Pablo Vargas [aut] (ORCID = 0000-0003-4502-0382)
 Maintainer: Alberto J. Coello <albjcoello@gmail.com>
 Repository: CRAN
-Date/Publication: 2023-11-13 17:33:29 UTC
+Date/Publication: 2024-07-15 22:40:02 UTC
